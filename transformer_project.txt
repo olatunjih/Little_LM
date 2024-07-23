@@ -1,0 +1,16 @@
+transformer_project/
+│
+├── data/
+│   ├── train_data.txt
+│   └── valid_data.txt
+│
+├── src/
+│   ├── __init__.py
+│   ├── model.py
+│   ├── preprocessing.py
+│   ├── training.py
+│   └── utils.py
+│
+├── requirements.txt
+├── README.md
+└── train.py

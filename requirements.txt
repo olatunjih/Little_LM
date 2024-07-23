@@ -1,0 +1,4 @@
+torch==2.0.1
+transformers==4.31.0
+datasets==2.11.0
+nlpaug==1.1.7
